@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179633362375",
+    "project_id": "measurementapptest",
+    "storage_bucket": "measurementapptest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179633362375:android:73fe637f540acebce4f5e2",
+        "android_client_info": {
+          "package_name": "com.example.measurementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179633362375-a0l386pu94rr95rorrdbtbiqv8barit3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdlBaGuxIZFoO5LF8UZA7lzueQM3aU35Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179633362375-a0l386pu94rr95rorrdbtbiqv8barit3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
